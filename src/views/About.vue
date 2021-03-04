@@ -119,9 +119,8 @@ export default {
     padding: 0;
   }
   .content {
-    width: 100%;
-    margin: 15px;
-    margin-left: 0;
+    width: 90%;
+    margin: 20px auto;
   }
   .name {
     text-align: center;
@@ -132,8 +131,8 @@ export default {
     font-size: 14px;
   }
   .clients {
-    width: 100%;
-    margin: 10px 0;
+    width: 90%;
+    margin: 0 auto;
     margin-top: 50px;
     margin-bottom: 10px;
   }

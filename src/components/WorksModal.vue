@@ -53,7 +53,7 @@ export default {
   .close-btn {
   position: absolute; 
   right: 15%;
-  top: 5%;
+  top: 15%;
   cursor: pointer;
   }
   .content {
