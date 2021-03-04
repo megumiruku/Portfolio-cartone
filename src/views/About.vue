@@ -116,7 +116,7 @@ export default {
   .profile-img {
     display: block;
     margin: 0 auto;
-    padding: 0;
+    padding-top: 10px;
   }
   .content {
     width: 90%;
