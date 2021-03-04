@@ -105,15 +105,14 @@ export default {
   }
   .grid {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     width: 100%;
+    margin-top: 5%;
   }
   .header-img{
-    width: 27%;
+    width: 40%;
   }
-
-  /* ↑小さすぎたら変える */
- 
 }
 </style>
 HomeModal

@@ -119,17 +119,38 @@ export default {
     padding: 0;
   }
   .content {
-    width: 95%;
-    margin: 0 auto;
+    width: 100%;
+    margin: 15px;
+    margin-left: 0;
   }
   .name {
     text-align: center;
-    padding: 5px 0;
+    padding-top: 5px;
+    padding-bottom: 20px;
+  }
+  .content-jap {
+    font-size: 14px;
   }
   .clients {
-    margin-top: 40px;
+    width: 100%;
+    margin: 10px 0;
+    margin-top: 50px;
     margin-bottom: 10px;
   }
+  .clients-eng {
+  font-size:0.8rem;
+  line-height: 1.3rem;
+  }
+  .clients-jap {
+  font-size: 0.7rem;
+  line-height: 1.4rem;
+  }
+.clients-img {
+  display: block;
+  width: 90%;
+  margin: 20px auto;
+}
+
 
 
 

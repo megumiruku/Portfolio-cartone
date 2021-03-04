@@ -244,5 +244,9 @@ export default {
   .flex {
     display: block;
   }
+  .images {
+  width: 45%;
+  margin: 5px;
+}
 }
 </style>

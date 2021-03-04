@@ -83,7 +83,6 @@ export default {
 form {
   width: 100%;
   margin: 50px auto;
-  padding-left: 20px ;
   text-align: center;
 }
 label {
@@ -133,14 +132,14 @@ textarea {
     display: block;
   }
   .form {
-    width: 90%;
+    width: 95%;
     margin: 50px auto;
   }
   .section-ttl {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
   }
   form{
-    width: 95%;
+    width: 90%;
     margin-top: 30px;
     margin-bottom: 20px;
   }

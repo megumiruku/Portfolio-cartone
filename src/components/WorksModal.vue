@@ -35,7 +35,7 @@ export default {
   text-align: center;
 }
 .content img {
-  width: 95%;
+  width: 90%;
 }
 .close-btn {
   color: #fff;
@@ -52,9 +52,12 @@ export default {
   }
   .close-btn {
   position: absolute; 
-  right: 20%;
+  right: 15%;
   top: 5%;
   cursor: pointer;
+  }
+  .content {
+    width: 70%;
   }
 }
 </style>

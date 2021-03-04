@@ -47,13 +47,16 @@ export default {
 }
 
 @media screen and (max-width: 767px) {
+  .content {
+    width: 60%;
+  }
   .content img {
     width: 100%;
   }
   .close-btn {
   position: absolute; 
-  right: 20%;
-  top: 5%;
+  right: 15%;
+  top: 0%;
   cursor: pointer;
   }
 }
