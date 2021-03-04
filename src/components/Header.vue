@@ -125,7 +125,7 @@ export default {
   display: none;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .header {
     width: 80%;
     height: 15vh;

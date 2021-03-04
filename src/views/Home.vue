@@ -96,7 +96,7 @@ export default {
   transition-duration: 0.5s;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .home {
     width: 100%;
   }
@@ -113,6 +113,10 @@ export default {
   .header-img{
     width: 40%;
   }
+  .header-img img:hover {
+  box-shadow:none;
+  transform:none;
+  transition: none;
+  }
 }
 </style>
-HomeModal

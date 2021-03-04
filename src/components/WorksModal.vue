@@ -46,14 +46,14 @@ export default {
   cursor: pointer;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .content img {
     width: 100%;
   }
   .close-btn {
   position: absolute; 
   right: 15%;
-  top: 10%;
+  top: 0%;
   cursor: pointer;
   }
   .content {

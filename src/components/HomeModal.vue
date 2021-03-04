@@ -46,7 +46,7 @@ export default {
   cursor: pointer;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .content {
     width: 60%;
   }
@@ -56,7 +56,7 @@ export default {
   .close-btn {
   position: absolute; 
   right: 15%;
-  top: 8%;
+  top: 0%;
   cursor: pointer;
   }
 }
